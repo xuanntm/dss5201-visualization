@@ -14,3 +14,5 @@ xlrd
 # data visualization
 matplotlib
 seaborn
+# geo mapping
+pycountry_convert
