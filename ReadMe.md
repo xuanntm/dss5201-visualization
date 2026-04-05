@@ -1,13 +1,23 @@
 # Document for new course
 
-## Create environment and install necessary libraries
-```shell
-python3.12 -m venv venv-dsa2101
-source venv-dsa2101/bin/activate
-pip install -r requirements.txt
+
+## Project structure
+```
+Throughout the semester, we will store our
+- source files (.py, .ipynb) in the src sub-folder;
+- data files in the data sub-folder.
+- ensure we are using at least Python 3.12
+Using virtual environment: venv for project
+Additional Packages
+- numpy, matplotlib, pandas,...
 ```
 
-## export to html file
+
+## Create environment and install necessary libraries
 ```shell
-jupyter nbconvert --to html week1_lecture.ipynb
+cd src
+python3.12 -m venv venv-dss5201
+source venv-dss5201/bin/activate
+pip install -r requirements.txt
+pip freeze > requirements_2026April.txt
 ```
