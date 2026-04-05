@@ -21,3 +21,11 @@ source venv-dss5201/bin/activate
 pip install -r requirements.txt
 pip freeze > requirements_2026April.txt
 ```
+
+## Group project
+- Load data from `data/plastics.csv`
+- Cleanup data
+- Visualize data
+  - Visualization 1 : Over all top 10 companies in Asia 
+  - Visualization 2 : focus companies tag to the respective countries but not present in global countries (not part of viz 1) 
+  - Visualization 3 : compare the trend between 2019 and 2020

@@ -1,0 +1,912 @@
+laureateID,category,fullName,year,age,gender,bornCountry,organizationCountry
+160,Chemistry,Jacobus H. van 't Hoff,1901,49.0,Male,the Netherlands,Germany
+569,Literature,Sully Prudhomme,1901,62.0,Male,France,
+293,Medicine,Emil von Behring,1901,47.0,Male,Poland,Germany
+463,Peace,Frederic Passy,1901,73.0,Male,France,
+462,Peace,Henry Dunant,1901,73.0,Male,Switzerland,
+1,Physics,Wilhelm Conrad Rontgen,1901,56.0,Male,Germany,Germany
+161,Chemistry,Emil Fischer,1902,50.0,Male,Germany,Germany
+571,Literature,Theodor Mommsen,1902,85.0,Male,Germany,
+294,Medicine,Ronald Ross,1902,45.0,Male,India,United Kingdom
+464,Peace,Elie Ducommun,1902,69.0,Male,Switzerland,
+465,Peace,Albert Gobat,1902,69.0,Male,Switzerland,
+3,Physics,Pieter Zeeman,1902,49.0,Male,the Netherlands,the Netherlands
+2,Physics,Hendrik A. Lorentz,1902,49.0,Male,the Netherlands,the Netherlands
+162,Chemistry,Svante Arrhenius,1903,44.0,Male,Sweden,Sweden
+572,Literature,Bjornstjerne Bjornson,1903,71.0,Male,Norway,
+295,Medicine,Niels Ryberg Finsen,1903,43.0,Male,Faroe Islands (Denmark),Denmark
+466,Peace,Randal Cremer,1903,75.0,Male,United Kingdom,
+5,Physics,Pierre Curie,1903,51.0,Male,France,France
+4,Physics,Henri Becquerel,1903,51.0,Male,France,France
+6,Physics,Marie Curie,1903,51.0,Female,Poland,
+163,Chemistry,Sir William Ramsay,1904,52.0,Male,Scotland,United Kingdom
+574,Literature,Jose Echegaray,1904,74.0,Male,Spain,
+573,Literature,Frederic Mistral,1904,74.0,Male,France,
+296,Medicine,Ivan Pavlov,1904,55.0,Male,Russia,Russia
+467,Peace,Institute of International Law ,1904,,Organization,,
+8,Physics,Lord Rayleigh,1904,62.0,Male,United Kingdom,United Kingdom
+164,Chemistry,Adolf von Baeyer,1905,70.0,Male,Germany,Germany
+575,Literature,Henryk Sienkiewicz,1905,59.0,Male,Poland,
+297,Medicine,Robert Koch,1905,62.0,Male,Germany,Germany
+468,Peace,Bertha von Suttner,1905,62.0,Female,Czech Republic,
+9,Physics,Philipp Lenard,1905,43.0,Male,Slovakia,Germany
+165,Chemistry,Henri Moissan,1906,54.0,Male,France,France
+576,Literature,Giosue Carducci,1906,71.0,Male,Italy,
+299,Medicine,Santiago Ramon y Cajal,1906,63.0,Male,Spain,Spain
+298,Medicine,Camillo Golgi,1906,63.0,Male,Italy,Italy
+470,Peace,Theodore Roosevelt,1906,48.0,Male,USA,
+10,Physics,J.J. Thomson,1906,50.0,Male,United Kingdom,United Kingdom
+166,Chemistry,Eduard Buchner,1907,47.0,Male,Germany,Germany
+577,Literature,Rudyard Kipling,1907,42.0,Male,India,
+300,Medicine,Alphonse Laveran,1907,62.0,Male,France,France
+472,Peace,Louis Renault,1907,74.0,Male,France,France
+471,Peace,Ernesto Teodoro Moneta,1907,74.0,Male,Italy,
+11,Physics,Albert A. Michelson,1907,55.0,Male,Poland,USA
+167,Chemistry,Ernest Rutherford,1908,37.0,Male,New Zealand,United Kingdom
+578,Literature,Rudolf Eucken,1908,62.0,Male,Germany,
+302,Medicine,Paul Ehrlich,1908,63.0,Male,Poland,Germany
+301,Medicine,Ilya Mechnikov,1908,63.0,Male,Ukraine,France
+474,Peace,Fredrik Bajer,1908,64.0,Male,Denmark,
+473,Peace,Klas Pontus Arnoldson,1908,64.0,Male,Sweden,
+12,Physics,Gabriel Lippmann,1908,63.0,Male,Luxembourg,France
+168,Chemistry,Wilhelm Ostwald,1909,56.0,Male,Latvia,Germany
+579,Literature,Selma Lagerlof,1909,51.0,Female,Sweden,
+303,Medicine,Theodor Kocher,1909,68.0,Male,Switzerland,Switzerland
+476,Peace,Paul Henri d'Estournelles de Constant,1909,80.0,Male,France,
+475,Peace,Auguste Beernaert,1909,80.0,Male,Belgium,
+14,Physics,Ferdinand Braun,1909,35.0,Male,Germany,France
+13,Physics,Guglielmo Marconi,1909,35.0,Male,Italy,United Kingdom
+169,Chemistry,Otto Wallach,1910,63.0,Male,Russia,Germany
+580,Literature,Paul Heyse,1910,80.0,Male,Germany,
+304,Medicine,Albrecht Kossel,1910,57.0,Male,Germany,Germany
+477,Peace,Permanent International Peace Bureau ,1910,,Organization,,
+15,Physics,Johannes Diderik van der Waals,1910,73.0,Male,the Netherlands,the Netherlands
+6,Chemistry,Marie Curie,1911,44.0,Female,Poland,France
+581,Literature,Maurice Maeterlinck,1911,49.0,Male,Belgium,
+305,Medicine,Allvar Gullstrand,1911,49.0,Male,Sweden,Sweden
+479,Peace,Alfred Fried,1911,73.0,Male,Austria,
+478,Peace,Tobias Asser,1911,73.0,Male,the Netherlands,
+16,Physics,Wilhelm Wien,1911,47.0,Male,Russia,Germany
+173,Chemistry,Paul Sabatier,1912,41.0,Male,France,France
+172,Chemistry,Victor Grignard,1912,41.0,Male,France,France
+582,Literature,Gerhart Hauptmann,1912,50.0,Male,Poland,
+306,Medicine,Alexis Carrel,1912,39.0,Male,France,USA
+480,Peace,Elihu Root,1912,67.0,Male,USA,
+17,Physics,Gustaf Dalen,1912,43.0,Male,Sweden,Sweden
+174,Chemistry,Alfred Werner,1913,47.0,Male,France,Switzerland
+583,Literature,Rabindranath Tagore,1913,52.0,Male,India,
+307,Medicine,Charles Richet,1913,63.0,Male,France,France
+481,Peace,Henri La Fontaine,1913,59.0,Male,Belgium,
+18,Physics,Heike Kamerlingh Onnes,1913,60.0,Male,the Netherlands,the Netherlands
+175,Chemistry,Theodore W. Richards,1914,46.0,Male,USA,USA
+308,Medicine,Robert Barany,1914,38.0,Male,Austria,Austria
+19,Physics,Max von Laue,1914,35.0,Male,Germany,Germany
+176,Chemistry,Richard Willstatter,1915,43.0,Male,Germany,Germany
+584,Literature,Romain Rolland,1915,49.0,Male,France,
+21,Physics,Lawrence Bragg,1915,53.0,Male,Australia,United Kingdom
+20,Physics,William Bragg,1915,53.0,Male,United Kingdom,United Kingdom
+585,Literature,Verner von Heidenstam,1916,57.0,Male,Sweden,
+587,Literature,Henrik Pontoppidan,1917,60.0,Male,Denmark,
+586,Literature,Karl Gjellerup,1917,60.0,Male,Denmark,
+482,Peace,International Committee of the Red Cross ,1917,,Organization,,
+22,Physics,Charles Glover Barkla,1917,40.0,Male,United Kingdom,United Kingdom
+177,Chemistry,Fritz Haber,1918,50.0,Male,Poland,Germany
+23,Physics,Max Planck,1918,60.0,Male,Germany,Germany
+588,Literature,Carl Spitteler,1919,74.0,Male,Switzerland,
+309,Medicine,Jules Bordet,1919,49.0,Male,Belgium,Belgium
+483,Peace,Woodrow Wilson,1919,63.0,Male,USA,
+24,Physics,Johannes Stark,1919,45.0,Male,Germany,Germany
+178,Chemistry,Walther Nernst,1920,56.0,Male,Poland,Germany
+589,Literature,Knut Hamsun,1920,61.0,Male,Norway,
+310,Medicine,August Krogh,1920,46.0,Male,Denmark,Denmark
+484,Peace,Leon Bourgeois,1920,69.0,Male,France,
+25,Physics,Charles Edouard Guillaume,1920,59.0,Male,Switzerland,France
+179,Chemistry,Frederick Soddy,1921,44.0,Male,United Kingdom,United Kingdom
+590,Literature,Anatole France,1921,77.0,Male,France,
+486,Peace,Christian Lange,1921,61.0,Male,Norway,
+485,Peace,Hjalmar Branting,1921,61.0,Male,Sweden,
+26,Physics,Albert Einstein,1921,42.0,Male,Germany,Germany
+180,Chemistry,Francis W. Aston,1922,45.0,Male,United Kingdom,United Kingdom
+592,Literature,Jacinto Benavente,1922,56.0,Male,Spain,
+312,Medicine,Otto Meyerhof,1922,36.0,Male,Germany,Germany
+311,Medicine,Archibald V. Hill,1922,36.0,Male,United Kingdom,United Kingdom
+487,Peace,Fridtjof Nansen,1922,61.0,Male,Norway,
+27,Physics,Niels Bohr,1922,37.0,Male,Denmark,Denmark
+181,Chemistry,Fritz Pregl,1923,54.0,Male,Slovenia,Austria
+593,Literature,William Butler Yeats,1923,58.0,Male,Ireland,
+314,Medicine,John Macleod,1923,32.0,Male,Scotland,Canada
+313,Medicine,Frederick G. Banting,1923,32.0,Male,Canada,Canada
+28,Physics,Robert A. Millikan,1923,55.0,Male,USA,USA
+594,Literature,Wladyslaw Reymont,1924,57.0,Male,Poland,
+315,Medicine,Willem Einthoven,1924,64.0,Male,Indonesia,the Netherlands
+29,Physics,Manne Siegbahn,1924,38.0,Male,Sweden,Sweden
+182,Chemistry,Richard Zsigmondy,1925,60.0,Male,Austria,Germany
+596,Literature,George Bernard Shaw,1925,69.0,Male,Ireland,
+489,Peace,Charles G. Dawes,1925,62.0,Male,USA,
+488,Peace,Sir Austen Chamberlain,1925,62.0,Male,United Kingdom,
+30,Physics,James Franck,1925,43.0,Male,Germany,Germany
+31,Physics,Gustav Hertz,1925,43.0,Male,Germany,Germany
+183,Chemistry,The Svedberg,1926,42.0,Male,Sweden,Sweden
+597,Literature,Grazia Deledda,1926,55.0,Female,Italy,
+316,Medicine,Johannes Fibiger,1926,59.0,Male,Denmark,Denmark
+491,Peace,Gustav Stresemann,1926,64.0,Male,Germany,
+490,Peace,Aristide Briand,1926,64.0,Male,France,
+32,Physics,Jean Baptiste Perrin,1926,56.0,Male,France,France
+184,Chemistry,Heinrich Wieland,1927,50.0,Male,Germany,Germany
+600,Literature,Henri Bergson,1927,68.0,Male,France,
+317,Medicine,Julius Wagner-Jauregg,1927,70.0,Male,Austria,Austria
+493,Peace,Ludwig Quidde,1927,86.0,Male,Germany,
+492,Peace,Ferdinand Buisson,1927,86.0,Male,France,
+34,Physics,C.T.R. Wilson,1927,35.0,Male,Scotland,United Kingdom
+33,Physics,Arthur H. Compton,1927,35.0,Male,USA,USA
+185,Chemistry,Adolf Windaus,1928,52.0,Male,Germany,Germany
+601,Literature,Sigrid Undset,1928,46.0,Female,Denmark,
+318,Medicine,Charles Nicolle,1928,62.0,Male,France,Tunisia
+35,Physics,Owen Willans Richardson,1928,49.0,Male,United Kingdom,United Kingdom
+187,Chemistry,Hans von Euler-Chelpin,1929,64.0,Male,Germany,Sweden
+186,Chemistry,Arthur Harden,1929,64.0,Male,United Kingdom,United Kingdom
+602,Literature,Thomas Mann,1929,54.0,Male,Germany,
+320,Medicine,Sir Frederick Hopkins,1929,71.0,Male,United Kingdom,United Kingdom
+319,Medicine,Christiaan Eijkman,1929,71.0,Male,the Netherlands,the Netherlands
+494,Peace,Frank B. Kellogg,1929,73.0,Male,USA,
+36,Physics,Louis de Broglie,1929,37.0,Male,France,France
+188,Chemistry,Hans Fischer,1930,49.0,Male,Germany,Germany
+603,Literature,Sinclair Lewis,1930,45.0,Male,USA,
+321,Medicine,Karl Landsteiner,1930,62.0,Male,Austria,USA
+495,Peace,Nathan Soderblom,1930,64.0,Male,Sweden,
+37,Physics,Sir Chandrasekhara Venkata Raman,1930,42.0,Male,India,India
+190,Chemistry,Friedrich Bergius,1931,57.0,Male,Poland,Germany
+189,Chemistry,Carl Bosch,1931,57.0,Male,Germany,Germany
+604,Literature,Erik Axel Karlfeldt,1931,67.0,Male,Sweden,
+322,Medicine,Otto Warburg,1931,48.0,Male,Germany,Germany
+497,Peace,Nicholas Murray Butler,1931,71.0,Male,USA,USA
+496,Peace,Jane Addams,1931,71.0,Female,USA,
+191,Chemistry,Irving Langmuir,1932,51.0,Male,USA,USA
+605,Literature,John Galsworthy,1932,65.0,Male,United Kingdom,
+324,Medicine,Edgar Adrian,1932,75.0,Male,United Kingdom,United Kingdom
+323,Medicine,Sir Charles Sherrington,1932,75.0,Male,United Kingdom,United Kingdom
+38,Physics,Werner Heisenberg,1932,31.0,Male,Germany,Germany
+606,Literature,Ivan Bunin,1933,63.0,Male,Russia,
+325,Medicine,Thomas H. Morgan,1933,67.0,Male,USA,USA
+498,Peace,Sir Norman Angell,1933,61.0,Male,United Kingdom,
+40,Physics,Paul A.M. Dirac,1933,46.0,Male,United Kingdom,United Kingdom
+39,Physics,Erwin Schradinger,1933,46.0,Male,Austria,Germany
+192,Chemistry,Harold C. Urey,1934,41.0,Male,USA,USA
+607,Literature,Luigi Pirandello,1934,67.0,Male,Italy,
+328,Medicine,William P. Murphy,1934,56.0,Male,USA,USA
+327,Medicine,George R. Minot,1934,56.0,Male,USA,USA
+326,Medicine,George H. Whipple,1934,56.0,Male,USA,USA
+499,Peace,Arthur Henderson,1934,71.0,Male,Scotland,
+194,Chemistry,Irene Joliot-Curie,1935,35.0,Female,France,France
+193,Chemistry,Frederic Joliot,1935,35.0,Male,France,France
+329,Medicine,Hans Spemann,1935,66.0,Male,Germany,Germany
+500,Peace,Carl von Ossietzky,1935,46.0,Male,Germany,
+41,Physics,James Chadwick,1935,44.0,Male,United Kingdom,United Kingdom
+195,Chemistry,Peter Debye,1936,52.0,Male,the Netherlands,Germany
+608,Literature,Eugene O'Neill,1936,48.0,Male,USA,
+331,Medicine,Otto Loewi,1936,61.0,Male,Germany,Austria
+330,Medicine,Sir Henry Dale,1936,61.0,Male,United Kingdom,United Kingdom
+501,Peace,Carlos Saavedra Lamas,1936,58.0,Male,Argentina,
+43,Physics,Carl D. Anderson,1936,53.0,Male,USA,USA
+42,Physics,Victor F. Hess,1936,53.0,Male,Austria,Austria
+197,Chemistry,Paul Karrer,1937,54.0,Male,Russia,Switzerland
+196,Chemistry,Norman Haworth,1937,54.0,Male,United Kingdom,United Kingdom
+609,Literature,Roger Martin du Gard,1937,56.0,Male,France,
+332,Medicine,Albert Szent Gyorgyi,1937,44.0,Male,Hungary,Hungary
+502,Peace,Robert Cecil,1937,73.0,Male,United Kingdom,
+45,Physics,George Paget Thomson,1937,56.0,Male,United Kingdom,United Kingdom
+44,Physics,Clinton Davisson,1937,56.0,Male,USA,USA
+198,Chemistry,Richard Kuhn,1938,38.0,Male,Austria,Germany
+610,Literature,Pearl Buck,1938,46.0,Female,USA,
+333,Medicine,Corneille Heymans,1938,46.0,Male,Belgium,Belgium
+503,Peace,Nansen International Office for Refugees ,1938,,Organization,,
+46,Physics,Enrico Fermi,1938,37.0,Male,Italy,Italy
+200,Chemistry,Leopold Ruzicka,1939,36.0,Male,Croatia,Switzerland
+199,Chemistry,Adolf Butenandt,1939,36.0,Male,Germany,Germany
+613,Literature,Frans Eemil Sillanpaa,1939,51.0,Male,Finland,
+334,Medicine,Gerhard Domagk,1939,44.0,Male,Poland,Germany
+47,Physics,Ernest Lawrence,1939,38.0,Male,USA,USA
+201,Chemistry,George de Hevesy,1943,58.0,Male,Hungary,Sweden
+336,Medicine,Edward A. Doisy,1943,48.0,Male,USA,USA
+335,Medicine,Henrik Dam,1943,48.0,Male,Denmark,Denmark
+48,Physics,Otto Stern,1943,55.0,Male,Poland,USA
+202,Chemistry,Otto Hahn,1944,65.0,Male,Germany,Germany
+614,Literature,Johannes V. Jensen,1944,71.0,Male,Denmark,
+338,Medicine,Herbert S. Gasser,1944,70.0,Male,USA,USA
+337,Medicine,Joseph Erlanger,1944,70.0,Male,USA,USA
+482,Peace,International Committee of the Red Cross ,1944,,Organization,,
+49,Physics,Isidor Isaac Rabi,1944,46.0,Male,Poland,USA
+203,Chemistry,Artturi Virtanen,1945,50.0,Male,Finland,Finland
+615,Literature,Gabriela Mistral,1945,56.0,Female,Chile,
+341,Medicine,Sir Howard Florey,1945,64.0,Male,Australia,United Kingdom
+340,Medicine,Ernst B. Chain,1945,64.0,Male,Germany,United Kingdom
+339,Medicine,Sir Alexander Fleming,1945,64.0,Male,Scotland,United Kingdom
+505,Peace,Cordell Hull,1945,74.0,Male,USA,
+50,Physics,Wolfgang Pauli,1945,45.0,Male,Austria,USA
+206,Chemistry,Wendell M. Stanley,1946,59.0,Male,USA,USA
+205,Chemistry,John H. Northrop,1946,59.0,Male,USA,USA
+204,Chemistry,James B. Sumner,1946,59.0,Male,USA,USA
+617,Literature,Hermann Hesse,1946,69.0,Male,Germany,
+342,Medicine,Hermann J. Muller,1946,56.0,Male,USA,USA
+507,Peace,John R. Mott,1946,79.0,Male,USA,
+506,Peace,Emily Greene Balch,1946,79.0,Female,USA,
+51,Physics,Percy W. Bridgman,1946,64.0,Male,USA,USA
+207,Chemistry,Sir Robert Robinson,1947,61.0,Male,United Kingdom,United Kingdom
+618,Literature,Andra Gide,1947,78.0,Male,France,
+345,Medicine,Bernardo Houssay,1947,51.0,Male,Argentina,Argentina
+344,Medicine,Gerty Cori,1947,51.0,Female,Czech Republic,USA
+343,Medicine,Carl Cori,1947,51.0,Male,Czech Republic,USA
+509,Peace,American Friends Service Committee ,1947,,Organization,,
+508,Peace,Friends Service Council ,1947,,Organization,,
+52,Physics,Edward V. Appleton,1947,55.0,Male,United Kingdom,United Kingdom
+208,Chemistry,Arne Tiselius,1948,46.0,Male,Sweden,Sweden
+619,Literature,T.S. Eliot,1948,60.0,Male,USA,
+346,Medicine,Paul Muller,1948,49.0,Male,Switzerland,Switzerland
+53,Physics,Patrick M.S. Blackett,1948,51.0,Male,United Kingdom,United Kingdom
+209,Chemistry,William F. Giauque,1949,54.0,Male,Canada,USA
+620,Literature,William Faulkner,1949,52.0,Male,USA,
+348,Medicine,Egas Moniz,1949,68.0,Male,Portugal,Portugal
+347,Medicine,Walter Hess,1949,68.0,Male,Switzerland,Switzerland
+510,Peace,John Boyd Orr,1949,69.0,Male,Scotland,
+54,Physics,Hideki Yukawa,1949,42.0,Male,Japan,USA
+211,Chemistry,Kurt Alder,1950,74.0,Male,Poland,Germany
+210,Chemistry,Otto Diels,1950,74.0,Male,Germany,Germany
+621,Literature,Bertrand Russell,1950,78.0,Male,United Kingdom,
+351,Medicine,Philip S. Hench,1950,64.0,Male,USA,USA
+350,Medicine,Tadeus Reichstein,1950,64.0,Male,Poland,Switzerland
+349,Medicine,Edward C. Kendall,1950,64.0,Male,USA,USA
+511,Peace,Ralph Bunche,1950,46.0,Male,USA,USA
+55,Physics,Cecil Powell,1950,47.0,Male,United Kingdom,United Kingdom
+213,Chemistry,Glenn T. Seaborg,1951,44.0,Male,USA,USA
+212,Chemistry,Edwin M. McMillan,1951,44.0,Male,USA,USA
+622,Literature,Par Lagerkvist,1951,60.0,Male,Sweden,
+352,Medicine,Max Theiler,1951,52.0,Male,South Africa,USA
+512,Peace,Leon Jouhaux,1951,72.0,Male,France,
+57,Physics,Ernest T.S. Walton,1951,54.0,Male,Ireland,Ireland
+56,Physics,John Cockcroft,1951,54.0,Male,United Kingdom,United Kingdom
+215,Chemistry,Richard L.M. Synge,1952,42.0,Male,United Kingdom,United Kingdom
+214,Chemistry,Archer J.P. Martin,1952,42.0,Male,United Kingdom,United Kingdom
+623,Literature,Franois Mauriac,1952,67.0,Male,France,
+353,Medicine,Selman A. Waksman,1952,64.0,Male,Ukraine,USA
+513,Peace,Albert Schweitzer,1952,77.0,Male,France,
+59,Physics,E. M. Purcell,1952,47.0,Male,USA,USA
+58,Physics,Felix Bloch,1952,47.0,Male,Switzerland,USA
+216,Chemistry,Hermann Staudinger,1953,72.0,Male,Germany,Germany
+624,Literature,Winston Churchill,1953,79.0,Male,United Kingdom,
+355,Medicine,Fritz Lipmann,1953,53.0,Male,Russia,USA
+354,Medicine,Hans Krebs,1953,53.0,Male,Germany,United Kingdom
+514,Peace,George C. Marshall,1953,73.0,Male,USA,
+60,Physics,Frits Zernike,1953,65.0,Male,the Netherlands,the Netherlands
+217,Chemistry,Linus Pauling,1954,53.0,Male,USA,USA
+625,Literature,Ernest Hemingway,1954,55.0,Male,USA,
+358,Medicine,Frederick C. Robbins,1954,57.0,Male,USA,USA
+357,Medicine,Thomas H. Weller,1954,57.0,Male,USA,USA
+356,Medicine,John F. Enders,1954,57.0,Male,USA,USA
+515,Peace,Office of the United Nations High Commissioner for Refugees ,1954,,Organization,,
+62,Physics,Walther Bothe,1954,72.0,Male,Germany,Germany
+61,Physics,Max Born,1954,72.0,Male,Poland,United Kingdom
+218,Chemistry,Vincent du Vigneaud,1955,54.0,Male,USA,USA
+626,Literature,Halldor Laxness,1955,53.0,Male,Iceland,
+359,Medicine,Hugo Theorell,1955,52.0,Male,Sweden,Sweden
+64,Physics,Polykarp Kusch,1955,42.0,Male,Germany,USA
+63,Physics,Willis E. Lamb,1955,42.0,Male,USA,USA
+220,Chemistry,Nikolay Semenov,1956,59.0,Male,Russia,Russia
+219,Chemistry,Sir Cyril Hinshelwood,1956,59.0,Male,United Kingdom,United Kingdom
+627,Literature,Juan Ramon Jimenez,1956,75.0,Male,Spain,
+362,Medicine,Dickinson W. Richards,1956,61.0,Male,USA,USA
+361,Medicine,Werner Forssmann,1956,61.0,Male,Germany,Germany
+360,Medicine,Andra F Cournand,1956,61.0,Male,France,USA
+67,Physics,Walter H. Brattain,1956,46.0,Male,China,USA
+66,Physics,John Bardeen,1956,46.0,Male,USA,USA
+65,Physics,William B. Shockley,1956,46.0,Male,United Kingdom,USA
+221,Chemistry,Lord Todd,1957,50.0,Male,Scotland,United Kingdom
+628,Literature,Albert Camus,1957,44.0,Male,Algeria,
+363,Medicine,Daniel Bovet,1957,50.0,Male,Switzerland,Italy
+516,Peace,Lester Bowles Pearson,1957,60.0,Male,Canada,
+69,Physics,Tsung-Dao Lee,1957,35.0,Male,China,USA
+68,Physics,Chen Ning Yang,1957,35.0,Male,China,USA
+222,Chemistry,Frederick Sanger,1958,40.0,Male,United Kingdom,United Kingdom
+629,Literature,Boris Pasternak,1958,68.0,Male,Russia,
+366,Medicine,Joshua Lederberg,1958,55.0,Male,USA,USA
+365,Medicine,Edward Tatum,1958,55.0,Male,USA,USA
+364,Medicine,George Beadle,1958,55.0,Male,USA,USA
+517,Peace,Georges Pire,1958,48.0,Male,Belgium,
+721,Physics,Il'ja M. Frank,1958,54.0,Male,Russia,Russia
+71,Physics,Igor Y. Tamm,1958,54.0,Male,Russia,Russia
+70,Physics,Pavel A. Cherenkov,1958,54.0,Male,Russia,Russia
+223,Chemistry,Jaroslav Heyrovsky,1959,69.0,Male,Czech Republic,Czech Republic
+630,Literature,Salvatore Quasimodo,1959,58.0,Male,Italy,
+368,Medicine,Arthur Kornberg,1959,54.0,Male,USA,USA
+367,Medicine,Severo Ochoa,1959,54.0,Male,Spain,USA
+518,Peace,Philip Noel-Baker,1959,70.0,Male,United Kingdom,
+73,Physics,Owen Chamberlain,1959,54.0,Male,USA,USA
+72,Physics,Emilio Segre,1959,54.0,Male,Italy,USA
+224,Chemistry,Willard F. Libby,1960,52.0,Male,USA,USA
+631,Literature,Saint-John Perse,1960,73.0,Male,Guadeloupe Island,
+370,Medicine,Peter Medawar,1960,61.0,Male,Brazil,United Kingdom
+369,Medicine,Sir Frank Macfarlane Burnet,1960,61.0,Male,Australia,Australia
+519,Peace,Albert Lutuli,1960,,Male,Zimbabwe,
+74,Physics,Donald A. Glaser,1960,34.0,Male,USA,USA
+225,Chemistry,Melvin Calvin,1961,50.0,Male,USA,USA
+633,Literature,Ivo Andric,1961,69.0,Male,Bosnia and Herzegovina,
+371,Medicine,Georg von Bekesy,1961,62.0,Male,Hungary,USA
+520,Peace,Dag Hammarskjld,1961,56.0,Male,Sweden,
+76,Physics,Rudolf Mossbauer,1961,46.0,Male,Germany,Germany
+75,Physics,Robert Hofstadter,1961,46.0,Male,USA,USA
+227,Chemistry,John C. Kendrew,1962,48.0,Male,United Kingdom,United Kingdom
+226,Chemistry,Max F. Perutz,1962,48.0,Male,Austria,United Kingdom
+634,Literature,John Steinbeck,1962,60.0,Male,USA,
+374,Medicine,Maurice Wilkins,1962,46.0,Male,New Zealand,United Kingdom
+373,Medicine,James Watson,1962,46.0,Male,USA,USA
+372,Medicine,Francis Crick,1962,46.0,Male,United Kingdom,United Kingdom
+217,Peace,Linus Pauling,1962,61.0,Male,USA,USA
+77,Physics,Lev Landau,1962,54.0,Male,Azerbaijan,Russia
+228,Chemistry,Karl Ziegler,1963,65.0,Male,Germany,Germany
+229,Chemistry,Giulio Natta,1963,65.0,Male,Italy,Italy
+635,Literature,Giorgos Seferis,1963,63.0,Male,Turkiye,
+377,Medicine,Andrew Huxley,1963,60.0,Male,United Kingdom,United Kingdom
+376,Medicine,Alan Hodgkin,1963,60.0,Male,United Kingdom,United Kingdom
+375,Medicine,Sir John Eccles,1963,60.0,Male,Australia,Australia
+523,Peace,League of Red Cross Societies ,1963,,Organization,,
+482,Peace,International Committee of the Red Cross ,1963,,Organization,,
+80,Physics,J. Hans D. Jensen,1963,61.0,Male,Germany,Germany
+79,Physics,Maria Goeppert Mayer,1963,61.0,Female,Poland,USA
+78,Physics,Eugene Wigner,1963,61.0,Male,Hungary,USA
+230,Chemistry,Dorothy Crowfoot Hodgkin,1964,54.0,Female,Egypt,United Kingdom
+637,Literature,Jean-Paul Sartre,1964,59.0,Male,France,
+379,Medicine,Feodor Lynen,1964,52.0,Male,Germany,Germany
+378,Medicine,Konrad Bloch,1964,52.0,Male,Poland,USA
+524,Peace,Martin Luther King Jr.,1964,35.0,Male,USA,
+83,Physics,Aleksandr M. Prokhorov,1964,49.0,Male,Australia,Russia
+82,Physics,Nicolay G. Basov,1964,49.0,Male,Russia,Russia
+81,Physics,Charles H. Townes,1964,49.0,Male,USA,USA
+231,Chemistry,Robert B. Woodward,1965,48.0,Male,USA,USA
+638,Literature,Mikhail Sholokhov,1965,60.0,Male,Russia,
+382,Medicine,Jacques Monod,1965,45.0,Male,France,France
+381,Medicine,Andr Lwoff,1965,45.0,Male,France,France
+380,Medicine,Franois Jacob,1965,45.0,Male,France,France
+525,Peace,United Nations Children's Fund ,1965,,Organization,,
+86,Physics,Richard P. Feynman,1965,59.0,Male,USA,USA
+85,Physics,Julian Schwinger,1965,59.0,Male,USA,USA
+84,Physics,Sin-Itiro Tomonaga,1965,59.0,Male,Japan,Japan
+232,Chemistry,Robert S. Mulliken,1966,70.0,Male,USA,USA
+640,Literature,Nelly Sachs,1966,78.0,Female,Germany,
+639,Literature,Shmuel Agnon,1966,78.0,Male,Ukraine,
+384,Medicine,Charles B. Huggins,1966,87.0,Male,Canada,USA
+383,Medicine,Peyton Rous,1966,87.0,Male,USA,USA
+87,Physics,Alfred Kastler,1966,64.0,Male,France,France
+233,Chemistry,Manfred Eigen,1967,40.0,Male,Germany,Germany
+235,Chemistry,George Porter,1967,40.0,Male,United Kingdom,United Kingdom
+234,Chemistry,Ronald G.W. Norrish,1967,40.0,Male,United Kingdom,United Kingdom
+641,Literature,Miguel Angel Asturias,1967,68.0,Male,Guatemala,
+387,Medicine,George Wald,1967,67.0,Male,USA,USA
+386,Medicine,Keffer Hartline,1967,67.0,Male,USA,USA
+385,Medicine,Ragnar Granit,1967,67.0,Male,Finland,Sweden
+88,Physics,Hans Bethe,1967,61.0,Male,France,USA
+236,Chemistry,Lars Onsager,1968,65.0,Male,Norway,USA
+642,Literature,Yasunari Kawabata,1968,69.0,Male,Japan,
+390,Medicine,Marshall W. Nirenberg,1968,46.0,Male,USA,USA
+389,Medicine,H. Gobind Khorana,1968,46.0,Male,India,USA
+388,Medicine,Robert W. Holley,1968,46.0,Male,USA,USA
+526,Peace,Ren Cassin,1968,81.0,Male,France,
+89,Physics,Luis Alvarez,1968,57.0,Male,USA,USA
+238,Chemistry,Odd Hassel,1969,51.0,Male,Norway,Norway
+237,Chemistry,Derek Barton,1969,51.0,Male,United Kingdom,United Kingdom
+678,Economics,Jan Tinbergen,1969,74.0,Male,the Netherlands,the Netherlands
+677,Economics,Ragnar Frisch,1969,74.0,Male,Norway,Norway
+643,Literature,Samuel Beckett,1969,63.0,Male,Ireland,
+393,Medicine,Salvador E. Luria,1969,63.0,Male,Italy,USA
+392,Medicine,Alfred D. Hershey,1969,63.0,Male,USA,USA
+391,Medicine,Max Delbrck,1969,63.0,Male,Germany,USA
+527,Peace,International Labour Organization ,1969,,Organization,,
+90,Physics,Murray Gell-Mann,1969,40.0,Male,USA,USA
+239,Chemistry,Luis Leloir,1970,64.0,Male,France,Argentina
+679,Economics,Paul A. Samuelson,1970,55.0,Male,USA,USA
+644,Literature,Alexandr Solzhenitsyn,1970,52.0,Male,Russia,
+396,Medicine,Julius Axelrod,1970,59.0,Male,USA,USA
+395,Medicine,Ulf von Euler,1970,59.0,Male,Sweden,Sweden
+394,Medicine,Sir Bernard Katz,1970,59.0,Male,Germany,United Kingdom
+528,Peace,Norman Borlaug,1970,56.0,Male,USA,
+92,Physics,Louis Neel,1970,62.0,Male,France,France
+91,Physics,Hannes Alfven,1970,62.0,Male,Sweden,Sweden
+240,Chemistry,Gerhard Herzberg,1971,67.0,Male,Germany,Canada
+680,Economics,Simon Kuznets,1971,70.0,Male,Belarus,USA
+645,Literature,Pablo Neruda,1971,67.0,Male,Chile,
+397,Medicine,Earl W. Sutherland Jr.,1971,56.0,Male,USA,USA
+529,Peace,Willy Brandt,1971,58.0,Male,Germany,
+93,Physics,Dennis Gabor,1971,71.0,Male,Hungary,United Kingdom
+243,Chemistry,William H. Stein,1972,56.0,Male,USA,USA
+242,Chemistry,Stanford Moore,1972,56.0,Male,USA,USA
+241,Chemistry,Christian Anfinsen,1972,56.0,Male,USA,USA
+682,Economics,Kenneth J. Arrow,1972,68.0,Male,USA,USA
+681,Economics,John R. Hicks,1972,68.0,Male,United Kingdom,United Kingdom
+647,Literature,Heinrich Boll,1972,55.0,Male,Germany,
+399,Medicine,Rodney R. Porter,1972,43.0,Male,United Kingdom,United Kingdom
+398,Medicine,Gerald M. Edelman,1972,43.0,Male,USA,USA
+96,Physics,Robert Schrieffer,1972,64.0,Male,USA,USA
+95,Physics,Leon N. Cooper,1972,64.0,Male,USA,USA
+66,Physics,John Bardeen,1972,64.0,Male,USA,USA
+245,Chemistry,Geoffrey Wilkinson,1973,55.0,Male,United Kingdom,United Kingdom
+244,Chemistry,Ernst Otto Fischer,1973,55.0,Male,Germany,Germany
+683,Economics,Wassily Leontief,1973,67.0,Male,Russia,USA
+648,Literature,Patrick White,1973,61.0,Male,United Kingdom,
+401,Medicine,Konrad Lorenz,1973,87.0,Male,Austria,Austria
+400,Medicine,Karl von Frisch,1973,87.0,Male,Austria,Germany
+402,Medicine,Nikolaas Tinbergen,1973,87.0,Male,the Netherlands,United Kingdom
+530,Peace,Henry Kissinger,1973,50.0,Male,Germany,
+531,Peace,Le Duc Tho ,1973,50.0,Male,Vietnam,
+99,Physics,Brian D. Josephson,1973,48.0,Male,United Kingdom,United Kingdom
+98,Physics,Ivar Giaever,1973,48.0,Male,Norway,USA
+97,Physics,Leo Esaki,1973,48.0,Male,Japan,USA
+246,Chemistry,Paul J. Flory,1974,64.0,Male,USA,USA
+685,Economics,Friedrich von Hayek,1974,76.0,Male,Austria,
+684,Economics,Gunnar Myrdal,1974,76.0,Male,Sweden,
+650,Literature,Harry Martinson,1974,74.0,Male,Sweden,
+649,Literature,Eyvind Johnson,1974,74.0,Male,Sweden,
+403,Medicine,Albert Claude,1974,76.0,Male,Belgium,Belgium
+405,Medicine,George E. Palade,1974,76.0,Male,Romania,USA
+404,Medicine,Christian de Duve,1974,76.0,Male,United Kingdom,USA
+533,Peace,Eisaku Sato,1974,70.0,Male,Japan,
+532,Peace,Sen MacBride,1974,70.0,Male,France,
+101,Physics,Antony Hewish,1974,56.0,Male,United Kingdom,United Kingdom
+100,Physics,Martin Ryle,1974,56.0,Male,United Kingdom,United Kingdom
+248,Chemistry,Vladimir Prelog,1975,58.0,Male,Bosnia and Herzegovina,Switzerland
+247,Chemistry,John Cornforth,1975,58.0,Male,Australia,United Kingdom
+687,Economics,Tjalling C. Koopmans,1975,63.0,Male,Netherlands,USA
+686,Economics,Leonid Vitaliyevich Kantorovich,1975,63.0,Male,Russia,Russia
+651,Literature,Eugenio Montale,1975,79.0,Male,Italy,
+408,Medicine,Howard M. Temin,1975,37.0,Male,USA,USA
+407,Medicine,Renato Dulbecco,1975,37.0,Male,Italy,United Kingdom
+406,Medicine,David Baltimore,1975,37.0,Male,USA,USA
+534,Peace,Andrei Sakharov,1975,54.0,Male,Russia,
+104,Physics,James Rainwater,1975,53.0,Male,USA,USA
+103,Physics,Ben R. Mottelson,1975,53.0,Male,USA,Denmark
+102,Physics,Aage N. Bohr,1975,53.0,Male,Denmark,Denmark
+249,Chemistry,William Lipscomb,1976,57.0,Male,USA,USA
+688,Economics,Milton Friedman,1976,64.0,Male,USA,USA
+652,Literature,Saul Bellow,1976,61.0,Male,Canada,
+410,Medicine,D. Carleton Gajdusek,1976,51.0,Male,USA,USA
+409,Medicine,Baruch S. Blumberg,1976,51.0,Male,USA,USA
+536,Peace,Mairead Corrigan,1976,33.0,Female,Northern Ireland,
+535,Peace,Betty Williams,1976,33.0,Female,Northern Ireland,
+106,Physics,Samuel C.C. Ting,1976,45.0,Male,USA,USA
+105,Physics,Burton Richter,1976,45.0,Male,USA,USA
+250,Chemistry,Ilya Prigogine,1977,60.0,Male,Russia,Belgium
+689,Economics,Bertil Ohlin,1977,78.0,Male,Sweden,Sweden
+690,Economics,James E. Meade,1977,78.0,Male,United Kingdom,United Kingdom
+653,Literature,Vicente Aleixandre,1977,79.0,Male,Spain,
+413,Medicine,Rosalyn Yalow,1977,53.0,Female,USA,USA
+412,Medicine,Andrew V. Schally,1977,53.0,Male,Lithuania,USA
+411,Medicine,Roger Guillemin,1977,53.0,Male,France,USA
+537,Peace,Amnesty International ,1977,,Organization,,
+109,Physics,John H. Van Vleck,1977,54.0,Male,USA,USA
+108,Physics,Sir Nevill F. Mott,1977,54.0,Male,United Kingdom,United Kingdom
+107,Physics,Philip W. Anderson,1977,54.0,Male,USA,USA
+251,Chemistry,Peter Mitchell,1978,58.0,Male,United Kingdom,United Kingdom
+691,Economics,Herbert Simon,1978,62.0,Male,USA,USA
+654,Literature,Isaac Bashevis Singer,1978,74.0,Male,Poland,
+414,Medicine,Werner Arber,1978,49.0,Male,Switzerland,Switzerland
+416,Medicine,Hamilton O. Smith,1978,49.0,Male,USA,USA
+415,Medicine,Daniel Nathans,1978,49.0,Male,USA,USA
+539,Peace,Menachem Begin,1978,60.0,Male,Belarus,
+538,Peace,Anwar al-Sadat,1978,60.0,Male,Egypt,
+112,Physics,Robert Woodrow Wilson,1978,84.0,Male,USA,USA
+111,Physics,Arno Penzias,1978,84.0,Male,Germany,USA
+110,Physics,Pyotr Kapitsa,1978,84.0,Male,Russia,Russia
+253,Chemistry,Georg Wittig,1979,67.0,Male,Germany,Germany
+252,Chemistry,Herbert C. Brown,1979,67.0,Male,United Kingdom,USA
+693,Economics,Sir Arthur Lewis,1979,77.0,Male,Saint Lucia,USA
+692,Economics,Theodore W. Schultz,1979,77.0,Male,USA,USA
+655,Literature,Odysseus Elytis,1979,68.0,Male,Greece,
+418,Medicine,Godfrey N. Hounsfield,1979,55.0,Male,United Kingdom,United Kingdom
+417,Medicine,Allan M. Cormack,1979,55.0,Male,South Africa,USA
+540,Peace,Anjeza Gonxhe Bojaxhiu,1979,69.0,Female,North Macedonia,
+115,Physics,Steven Weinberg,1979,47.0,Male,USA,USA
+114,Physics,Abdus Salam,1979,47.0,Male,Pakistan,Italy
+113,Physics,Sheldon Glashow,1979,47.0,Male,USA,USA
+255,Chemistry,Walter Gilbert,1980,62.0,Male,USA,USA
+254,Chemistry,Paul Berg,1980,62.0,Male,USA,USA
+222,Chemistry,Frederick Sanger,1980,62.0,Male,United Kingdom,United Kingdom
+694,Economics,Lawrence R. Klein,1980,60.0,Male,USA,USA
+657,Literature,Czeslaw Milosz,1980,69.0,Male,Lithuania,
+420,Medicine,Jean Dausset,1980,60.0,Male,France,France
+421,Medicine,George D. Snell,1980,60.0,Male,USA,USA
+419,Medicine,Baruj Benacerraf,1980,60.0,Male,Venezuela,USA
+541,Peace,Adolfo Prez Esquivel,1980,49.0,Male,Argentina,
+117,Physics,Val Fitch,1980,49.0,Male,USA,USA
+116,Physics,James Cronin,1980,49.0,Male,USA,USA
+258,Chemistry,Roald Hoffmann,1981,63.0,Male,Ukraine,USA
+257,Chemistry,Kenichi Fukui,1981,63.0,Male,Japan,Japan
+695,Economics,James Tobin,1981,63.0,Male,USA,USA
+658,Literature,Elias Canetti,1981,76.0,Male,Bulgaria,
+424,Medicine,Torsten N. Wiesel,1981,68.0,Male,Sweden,USA
+423,Medicine,David H. Hubel,1981,68.0,Male,Canada,USA
+422,Medicine,Roger W. Sperry,1981,68.0,Male,USA,USA
+515,Peace,Office of the United Nations High Commissioner for Refugees ,1981,,Organization,,
+120,Physics,Kai M. Siegbahn,1981,61.0,Male,Sweden,Sweden
+119,Physics,Arthur L. Schawlow,1981,61.0,Male,USA,USA
+118,Physics,Nicolaas Bloembergen,1981,61.0,Male,the Netherlands,USA
+259,Chemistry,Aaron Klug,1982,56.0,Male,Lithuania,United Kingdom
+696,Economics,George J. Stigler,1982,71.0,Male,USA,USA
+659,Literature,Gabriel Garcia Marquez,1982,55.0,Male,Colombia,
+427,Medicine,John R. Vane,1982,66.0,Male,United Kingdom,United Kingdom
+426,Medicine,Bengt I. Samuelsson,1982,66.0,Male,Sweden,Sweden
+425,Medicine,Sune K. Bergstrom,1982,66.0,Male,Sweden,Sweden
+544,Peace,Alfonso Garcia Robles,1982,80.0,Male,Mexico,
+543,Peace,Alva Myrdal,1982,80.0,Female,Sweden,
+121,Physics,Kenneth G. Wilson,1982,46.0,Male,USA,USA
+260,Chemistry,Henry Taube,1983,68.0,Male,Canada,USA
+697,Economics,Gerard Debreu,1983,62.0,Male,France,USA
+660,Literature,William Golding,1983,72.0,Male,United Kingdom,
+428,Medicine,Barbara McClintock,1983,81.0,Female,USA,USA
+545,Peace,Lech Walesa,1983,40.0,Male,Poland,
+123,Physics,William A. Fowler,1983,73.0,Male,USA,USA
+122,Physics,Subrahmanyan Chandrasekhar,1983,73.0,Male,Pakistan,USA
+261,Chemistry,Bruce Merrifield,1984,63.0,Male,USA,USA
+698,Economics,Richard Stone,1984,71.0,Male,United Kingdom,United Kingdom
+661,Literature,Jaroslav Seifert,1984,83.0,Male,Czech Republic,
+430,Medicine,Georges J.F. Kohler,1984,73.0,Male,Germany,Switzerland
+431,Medicine,Cesar Milstein,1984,73.0,Male,Argentina,United Kingdom
+429,Medicine,Niels K. Jerne,1984,73.0,Male,United Kingdom,Switzerland
+546,Peace,Desmond Tutu,1984,53.0,Male,South Africa,
+125,Physics,Simon van der Meer,1984,50.0,Male,the Netherlands,Switzerland
+124,Physics,Carlo Rubbia,1984,50.0,Male,Italy,Switzerland
+263,Chemistry,Jerome Karle,1985,68.0,Male,USA,USA
+262,Chemistry,Herbert A. Hauptman,1985,68.0,Male,USA,USA
+699,Economics,Franco Modigliani,1985,67.0,Male,Italy,USA
+662,Literature,Claude Simon,1985,72.0,Male,Madagascar,
+433,Medicine,Joseph L. Goldstein,1985,44.0,Male,USA,USA
+432,Medicine,Michael S. Brown,1985,44.0,Male,USA,USA
+547,Peace,International Physicians for the Prevention of Nuclear War ,1985,,Organization,,
+126,Physics,Klaus von Klitzing,1985,42.0,Male,Poland,Germany
+264,Chemistry,Dudley R. Herschbach,1986,54.0,Male,USA,USA
+266,Chemistry,John C. Polanyi,1986,54.0,Male,Germany,Canada
+265,Chemistry,Yuan T. Lee,1986,54.0,Male,Taiwan,USA
+700,Economics,James M. Buchanan Jr.,1986,67.0,Male,USA,USA
+663,Literature,Wole Soyinka,1986,52.0,Male,Nigeria,
+435,Medicine,Rita Levi-Montalcini,1986,64.0,Female,Italy,Italy
+434,Medicine,Stanley Cohen,1986,64.0,Male,USA,USA
+548,Peace,Elie Wiesel,1986,58.0,Male,Romania,
+129,Physics,Heinrich Rohrer,1986,80.0,Male,Switzerland,Switzerland
+128,Physics,Gerd Binnig,1986,80.0,Male,Germany,Switzerland
+127,Physics,Ernst Ruska,1986,80.0,Male,Germany,Germany
+268,Chemistry,Jean-Marie Lehn,1987,68.0,Male,France,France
+269,Chemistry,Charles J. Pedersen,1987,68.0,Male,South Korea,USA
+267,Chemistry,Donald J. Cram,1987,68.0,Male,USA,USA
+701,Economics,Robert M. Solow,1987,63.0,Male,USA,USA
+664,Literature,Joseph Brodsky,1987,47.0,Male,Russia,
+436,Medicine,Susumu Tonegawa,1987,48.0,Male,Japan,USA
+549,Peace,Oscar Arias Sanchez,1987,46.0,Male,Costa Rica,
+131,Physics,K. Alex Muller,1987,37.0,Male,Switzerland,Switzerland
+130,Physics,J. Georg Bednorz,1987,37.0,Male,Germany,Switzerland
+272,Chemistry,Hartmut Michel,1988,45.0,Male,Germany,Germany
+271,Chemistry,Robert Huber,1988,45.0,Male,Germany,Germany
+270,Chemistry,Johann Deisenhofer,1988,45.0,Male,Germany,USA
+702,Economics,Maurice Allais,1988,77.0,Male,France,France
+665,Literature,Naguib Mahfouz,1988,77.0,Male,Egypt,
+439,Medicine,George H. Hitchings,1988,64.0,Male,USA,USA
+438,Medicine,Gertrude B. Elion,1988,64.0,Female,USA,USA
+437,Medicine,Sir James W. Black,1988,64.0,Male,Scotland,United Kingdom
+550,Peace,United Nations Peacekeeping Forces ,1988,,Organization,,
+134,Physics,Jack Steinberger,1988,66.0,Male,Germany,Switzerland
+133,Physics,Melvin Schwartz,1988,66.0,Male,USA,USA
+132,Physics,Leon M. Lederman,1988,66.0,Male,USA,USA
+274,Chemistry,Thomas R. Cech,1989,50.0,Male,USA,USA
+273,Chemistry,Sidney Altman,1989,50.0,Male,Canada,USA
+703,Economics,Trygve Haavelmo,1989,78.0,Male,Norway,Norway
+666,Literature,Camilo Jose Cela,1989,73.0,Male,Spain,
+441,Medicine,Harold E. Varmus,1989,53.0,Male,USA,USA
+440,Medicine,J. Michael Bishop,1989,53.0,Male,USA,USA
+551,Peace,Lhamo Thondup,1989,54.0,Male,China,
+136,Physics,Hans G. Dehmelt,1989,74.0,Male,Germany,USA
+137,Physics,Wolfgang Paul,1989,74.0,Male,Germany,Germany
+135,Physics,Norman F. Ramsey,1989,74.0,Male,USA,USA
+275,Chemistry,Elias James Corey,1990,62.0,Male,USA,USA
+706,Economics,William F. Sharpe,1990,63.0,Male,USA,USA
+705,Economics,Merton H. Miller,1990,63.0,Male,USA,USA
+704,Economics,Harry M. Markowitz,1990,63.0,Male,USA,USA
+667,Literature,Octavio Paz,1990,76.0,Male,Mexico,
+443,Medicine,E. Donnall Thomas,1990,71.0,Male,USA,USA
+442,Medicine,Joseph E. Murray,1990,71.0,Male,USA,USA
+552,Peace,Mikhail Gorbachev,1990,59.0,Male,Russia,
+140,Physics,Richard E. Taylor,1990,60.0,Male,Canada,USA
+139,Physics,Henry W. Kendall,1990,60.0,Male,USA,USA
+138,Physics,Jerome I. Friedman,1990,60.0,Male,USA,USA
+276,Chemistry,Richard R. Ernst,1991,58.0,Male,Switzerland,Switzerland
+707,Economics,Ronald H. Coase,1991,81.0,Male,United Kingdom,USA
+668,Literature,Nadine Gordimer,1991,68.0,Female,South Africa,
+444,Medicine,Erwin Neher,1991,47.0,Male,Germany,Germany
+445,Medicine,Bert Sakmann,1991,47.0,Male,Germany,Germany
+553,Peace,Aung San Suu Kyi ,1991,46.0,Female,Myanmar,
+141,Physics,Pierre-Gilles de Gennes,1991,59.0,Male,France,France
+277,Chemistry,Rudolph A. Marcus,1992,69.0,Male,Canada,USA
+708,Economics,Gary Becker,1992,62.0,Male,USA,USA
+669,Literature,Derek Walcott,1992,62.0,Male,Saint Lucia,
+447,Medicine,Edwin G. Krebs,1992,72.0,Male,USA,USA
+446,Medicine,Edmond H. Fischer,1992,72.0,Male,China,USA
+554,Peace,Rigoberta Menchu Tum,1992,33.0,Female,Guatemala,
+142,Physics,Georges Charpak,1992,68.0,Male,Poland,France
+279,Chemistry,Michael Smith,1993,49.0,Male,United Kingdom,Canada
+278,Chemistry,Kary B. Mullis,1993,49.0,Male,USA,
+710,Economics,Douglass C. North,1993,66.0,Male,USA,USA
+709,Economics,Robert W. Fogel,1993,66.0,Male,USA,USA
+670,Literature,Toni Morrison,1993,62.0,Female,USA,
+449,Medicine,Phillip A. Sharp,1993,50.0,Male,USA,USA
+448,Medicine,Richard J. Roberts,1993,50.0,Male,United Kingdom,USA
+556,Peace,F.W. de Klerk,1993,75.0,Male,South Africa,
+555,Peace,Nelson Mandela,1993,75.0,Male,South Africa,
+144,Physics,Joseph H. Taylor Jr.,1993,43.0,Male,USA,USA
+143,Physics,Russell A. Hulse,1993,43.0,Male,USA,USA
+280,Chemistry,George A. Olah,1994,67.0,Male,Hungary,USA
+713,Economics,Reinhard Selten,1994,74.0,Male,Poland,Germany
+712,Economics,John F. Nash Jr.,1994,74.0,Male,USA,USA
+711,Economics,John C. Harsanyi,1994,74.0,Male,Hungary,USA
+671,Literature,Kenzaburo Oe,1994,59.0,Male,Japan,
+451,Medicine,Martin Rodbell,1994,53.0,Male,USA,USA
+450,Medicine,Alfred G. Gilman,1994,53.0,Male,USA,USA
+559,Peace,Yitzhak Rabin,1994,65.0,Male,Israel,
+558,Peace,Shimon Peres,1994,65.0,Male,Belarus,
+557,Peace,Yasser Arafat,1994,65.0,Male,Egypt,
+146,Physics,Clifford G. Shull,1994,76.0,Male,USA,USA
+145,Physics,Bertram N. Brockhouse,1994,76.0,Male,Canada,Canada
+281,Chemistry,Paul J. Crutzen,1995,62.0,Male,the Netherlands,Germany
+283,Chemistry,F. Sherwood Rowland,1995,62.0,Male,USA,USA
+282,Chemistry,Mario J. Molina,1995,62.0,Male,Mexico,USA
+714,Economics,Robert E. Lucas Jr.,1995,58.0,Male,USA,USA
+672,Literature,Seamus Heaney,1995,56.0,Male,Northern Ireland,
+453,Medicine,Christiane Nusslein-Volhard,1995,77.0,Female,Germany,Germany
+454,Medicine,Eric F. Wieschaus,1995,77.0,Male,USA,USA
+452,Medicine,Edward B. Lewis,1995,77.0,Male,USA,USA
+561,Peace,Pugwash Conferences on Science and World Affairs ,1995,87.0,Organization,,
+560,Peace,Joseph Rotblat,1995,87.0,Male,Poland,
+148,Physics,Frederick Reines,1995,68.0,Male,USA,USA
+147,Physics,Martin L. Perl,1995,68.0,Male,USA,USA
+286,Chemistry,Richard E. Smalley,1996,63.0,Male,USA,USA
+285,Chemistry,Sir Harold Kroto,1996,63.0,Male,United Kingdom,United Kingdom
+284,Chemistry,Robert F. Curl Jr.,1996,63.0,Male,USA,USA
+716,Economics,William Vickrey,1996,60.0,Male,Canada,USA
+715,Economics,James A. Mirrlees,1996,60.0,Male,Scotland,United Kingdom
+673,Literature,Wislawa Szymborska,1996,73.0,Female,Poland,
+456,Medicine,Rolf M. Zinkernagel,1996,56.0,Male,Switzerland,Switzerland
+455,Medicine,Peter C. Doherty,1996,56.0,Male,Australia,USA
+563,Peace,Jose Ramos-Horta,1996,48.0,Male,East Timor,
+562,Peace,Carlos Filipe Ximenes Belo,1996,48.0,Male,East Timor,
+151,Physics,Robert C. Richardson,1996,65.0,Male,USA,USA
+150,Physics,Douglas D. Osheroff,1996,65.0,Male,USA,USA
+149,Physics,David M. Lee,1996,65.0,Male,USA,USA
+289,Chemistry,Jens C. Skou,1997,79.0,Male,Denmark,Denmark
+288,Chemistry,John E. Walker,1997,79.0,Male,United Kingdom,United Kingdom
+287,Chemistry,Paul D. Boyer,1997,79.0,Male,USA,USA
+718,Economics,Myron Scholes,1997,53.0,Male,Canada,USA
+717,Economics,Robert C. Merton,1997,53.0,Male,USA,USA
+674,Literature,Dario Fo,1997,71.0,Male,Italy,
+457,Medicine,Stanley B. Prusiner,1997,55.0,Male,USA,USA
+565,Peace,Jody Williams,1997,,Female,USA,
+564,Peace,International Campaign to Ban Landmines ,1997,,Organization,,
+153,Physics,Claude Cohen-Tannoudji,1997,49.0,Male,Algeria,France
+154,Physics,William D. Phillips,1997,49.0,Male,USA,USA
+152,Physics,Steven Chu,1997,49.0,Male,USA,USA
+291,Chemistry,John Pople,1998,75.0,Male,United Kingdom,USA
+290,Chemistry,Walter Kohn,1998,75.0,Male,Austria,USA
+719,Economics,Amartya Sen,1998,65.0,Male,India,United Kingdom
+675,Literature,Jose Saramago,1998,76.0,Male,Portugal,
+460,Medicine,Ferid Murad,1998,82.0,Male,USA,USA
+459,Medicine,Louis J. Ignarro,1998,82.0,Male,USA,USA
+458,Medicine,Robert F. Furchgott,1998,82.0,Male,USA,USA
+567,Peace,David Trimble,1998,61.0,Male,Northern Ireland,
+566,Peace,John Hume,1998,61.0,Male,Northern Ireland,
+157,Physics,Daniel C. Tsui,1998,48.0,Male,China,USA
+156,Physics,Horst L. Stormer,1998,48.0,Male,Germany,USA
+155,Physics,Robert B. Laughlin,1998,48.0,Male,USA,USA
+292,Chemistry,Ahmed Zewail,1999,53.0,Male,Egypt,USA
+720,Economics,Robert Mundell,1999,67.0,Male,Canada,USA
+676,Literature,Gnter Grass,1999,72.0,Male,Poland,
+461,Medicine,Gnter Blobel,1999,63.0,Male,Poland,USA
+568,Peace,Doctors Without Borders ,1999,,Organization,,
+158,Physics,Gerardus 't Hooft,1999,53.0,Male,the Netherlands,the Netherlands
+159,Physics,Martinus J.G. Veltman,1999,53.0,Male,the Netherlands,
+731,Chemistry,Hideki Shirakawa,2000,64.0,Male,Japan,Japan
+730,Chemistry,Alan MacDiarmid,2000,64.0,Male,New Zealand,USA
+729,Chemistry,Alan Heeger,2000,64.0,Male,USA,USA
+733,Economics,Daniel L. McFadden,2000,56.0,Male,USA,USA
+732,Economics,James J. Heckman,2000,56.0,Male,USA,USA
+734,Literature,Xingjian Gao,2000,60.0,Male,China,
+722,Medicine,Arvid Carlsson,2000,77.0,Male,Sweden,Sweden
+724,Medicine,Eric Kandel,2000,77.0,Male,Austria,USA
+723,Medicine,Paul Greengard,2000,77.0,Male,USA,USA
+725,Peace,Kim Dae-jung,2000,75.0,Male,South Korea,
+728,Physics,Jack Kilby,2000,70.0,Male,USA,USA
+727,Physics,Herbert Kroemer,2000,70.0,Male,Germany,USA
+726,Physics,Zhores Alferov,2000,70.0,Male,Belarus,Russia
+743,Chemistry,Barry Sharpless,2001,84.0,Male,USA,USA
+742,Chemistry,Ryoji Noyori,2001,84.0,Male,Japan,Japan
+741,Chemistry,William Knowles,2001,84.0,Male,USA,
+746,Economics,Joseph E. Stiglitz,2001,61.0,Male,USA,USA
+745,Economics,A. Michael Spence,2001,61.0,Male,USA,USA
+744,Economics,George A. Akerlof,2001,61.0,Male,USA,USA
+747,Literature,V. S. Naipaul,2001,69.0,Male,Trinidad and Tobago,
+737,Medicine,Sir Paul Nurse,2001,62.0,Male,United Kingdom,United Kingdom
+736,Medicine,Tim Hunt,2001,62.0,Male,United Kingdom,United Kingdom
+735,Medicine,Leland Hartwell,2001,62.0,Male,USA,USA
+749,Peace,Kofi Annan,2001,,Male,Ghana,
+748,Peace,United Nations ,2001,,Organization,,
+740,Physics,Carl Wieman,2001,40.0,Male,USA,USA
+739,Physics,Wolfgang Ketterle,2001,40.0,Male,Germany,USA
+738,Physics,Eric Cornell,2001,40.0,Male,USA,USA
+758,Chemistry,Kurt Wuthrich,2002,85.0,Male,Switzerland,Switzerland
+757,Chemistry,Koichi Tanaka,2002,85.0,Male,Japan,Japan
+756,Chemistry,John B. Fenn,2002,85.0,Male,USA,USA
+760,Economics,Vernon L. Smith,2002,68.0,Male,USA,USA
+759,Economics,Daniel Kahneman,2002,68.0,Male,Israel,USA
+761,Literature,Imre Kertesz,2002,73.0,Male,Hungary,
+752,Medicine,John E. Sulston,2002,75.0,Male,United Kingdom,United Kingdom
+751,Medicine,H. Robert Horvitz,2002,75.0,Male,USA,USA
+750,Medicine,Sydney Brenner,2002,75.0,Male,South Africa,USA
+762,Peace,Jimmy Carter,2002,78.0,Male,USA,
+755,Physics,Riccardo Giacconi,2002,88.0,Male,Italy,USA
+754,Physics,Masatoshi Koshiba,2002,88.0,Male,Japan,Japan
+753,Physics,Raymond Davis Jr.,2002,88.0,Male,USA,USA
+770,Chemistry,Roderick MacKinnon,2003,54.0,Male,USA,USA
+769,Chemistry,Peter Agre,2003,54.0,Male,USA,USA
+772,Economics,Clive W.J. Granger,2003,61.0,Male,United Kingdom,USA
+771,Economics,Robert F. Engle III,2003,61.0,Male,USA,USA
+763,Literature,J. M. Coetzee,2003,63.0,Male,South Africa,
+765,Medicine,Sir Peter Mansfield,2003,74.0,Male,United Kingdom,United Kingdom
+764,Medicine,Paul C. Lauterbur,2003,74.0,Male,USA,USA
+773,Peace,Shirin Ebadi,2003,56.0,Female,Iran,
+768,Physics,Anthony J. Leggett,2003,75.0,Male,United Kingdom,USA
+767,Physics,Vitaly L. Ginzburg,2003,75.0,Male,Russia,Russia
+766,Physics,Alexei Abrikosov,2003,75.0,Male,Russia,USA
+781,Chemistry,Irwin Rose,2004,57.0,Male,USA,USA
+780,Chemistry,Avram Hershko,2004,57.0,Male,Hungary,Israel
+779,Chemistry,Aaron Ciechanover,2004,57.0,Male,Israel,Israel
+787,Economics,Edward C. Prescott,2004,61.0,Male,USA,USA
+786,Economics,Finn E. Kydland,2004,61.0,Male,Norway,USA
+782,Literature,Elfriede Jelinek,2004,58.0,Female,Austria,
+775,Medicine,Linda B. Buck,2004,58.0,Female,USA,USA
+774,Medicine,Richard Axel,2004,58.0,Male,USA,USA
+783,Peace,Wangari Maathai,2004,64.0,Female,Kenya,
+778,Physics,Frank Wilczek,2004,63.0,Male,USA,USA
+777,Physics,H. David Politzer,2004,63.0,Male,USA,USA
+776,Physics,David J. Gross,2004,63.0,Male,USA,USA
+794,Chemistry,Yves Chauvin,2005,75.0,Male,Belgium,France
+796,Chemistry,Richard R. Schrock,2005,75.0,Male,USA,USA
+795,Chemistry,Robert H. Grubbs,2005,75.0,Male,USA,USA
+800,Economics,Thomas C. Schelling,2005,75.0,Male,USA,USA
+799,Economics,Robert J. Aumann,2005,75.0,Male,Germany,Israel
+801,Literature,Harold Pinter,2005,75.0,Male,United Kingdom,
+790,Medicine,J. Robin Warren,2005,54.0,Male,Australia,
+789,Medicine,Barry J. Marshall,2005,54.0,Male,Australia,Australia
+798,Peace,Mohamed ElBaradei,2005,,Male,Egypt,
+797,Peace,International Atomic Energy Agency ,2005,,Organization,,
+793,Physics,Theodor W. Hansch,2005,80.0,Male,Germany,Germany
+792,Physics,John L. Hall,2005,80.0,Male,USA,USA
+791,Physics,Roy J. Glauber,2005,80.0,Male,USA,USA
+806,Chemistry,Roger D. Kornberg,2006,59.0,Male,USA,USA
+807,Economics,Edmund S. Phelps,2006,73.0,Male,USA,USA
+808,Literature,Orhan Pamuk,2006,54.0,Male,Turkey,
+803,Medicine,Craig C. Mello,2006,47.0,Male,USA,USA
+802,Medicine,Andrew Z. Fire,2006,47.0,Male,USA,USA
+810,Peace,Grameen Bank ,2006,66.0,Organization,,
+809,Peace,Muhammad Yunus,2006,66.0,Male,Bangladesh,
+805,Physics,George F. Smoot,2006,60.0,Male,USA,USA
+804,Physics,John C. Mather,2006,60.0,Male,USA,USA
+816,Chemistry,Gerhard Ertl,2007,71.0,Male,Germany,Germany
+822,Economics,Roger B. Myerson,2007,90.0,Male,USA,USA
+821,Economics,Eric S. Maskin,2007,90.0,Male,USA,USA
+820,Economics,Leonid Hurwicz,2007,90.0,Male,Russia,USA
+817,Literature,Doris Lessing,2007,88.0,Female,Iran,
+813,Medicine,Oliver Smithies,2007,70.0,Male,United Kingdom,USA
+812,Medicine,Sir Martin J. Evans,2007,70.0,Male,United Kingdom,United Kingdom
+811,Medicine,Mario R. Capecchi,2007,70.0,Male,Italy,USA
+819,Peace,Al Gore,2007,,Male,USA,
+818,Peace,Intergovernmental Panel on Climate Change ,2007,,Organization,,
+815,Physics,Peter Grnberg,2007,69.0,Male,Czech Republic,Germany
+814,Physics,Albert Fert,2007,69.0,Male,France,France
+831,Chemistry,Roger Y. Tsien,2008,80.0,Male,USA,USA
+830,Chemistry,Martin Chalfie,2008,80.0,Male,USA,USA
+829,Chemistry,Osamu Shimomura,2008,80.0,Male,Japan,USA
+834,Economics,Paul Krugman,2008,55.0,Male,USA,USA
+832,Literature,Jean Marie Gustave Le Clezio,2008,68.0,Male,France,
+825,Medicine,Luc Montagnier,2008,72.0,Male,France,France
+824,Medicine,Franoise Barr-Sinoussi,2008,72.0,Female,France,France
+823,Medicine,Harald zur Hausen,2008,72.0,Male,Germany,Germany
+833,Peace,Martti Ahtisaari,2008,71.0,Male,Finland,
+828,Physics,Toshihide Maskawa,2008,87.0,Male,Japan,Japan
+827,Physics,Makoto Kobayashi,2008,87.0,Male,Japan,Japan
+826,Physics,Yoichiro Nambu,2008,87.0,Male,Japan,USA
+843,Chemistry,Ada E. Yonath,2009,,Female,Israel,Israel
+842,Chemistry,Thomas A. Steitz,2009,,Male,USA,USA
+841,Chemistry,Venkatraman Ramakrishnan,2009,,Male,India,United Kingdom
+847,Economics,Oliver E. Williamson,2009,76.0,Male,USA,USA
+846,Economics,Elinor Ostrom,2009,76.0,Female,USA,USA
+844,Literature,Herta Muller,2009,56.0,Female,Romania,
+837,Medicine,Jack W. Szostak,2009,61.0,Male,United Kingdom,USA
+836,Medicine,Carol W. Greider,2009,61.0,Female,USA,USA
+835,Medicine,Elizabeth H. Blackburn,2009,61.0,Female,Australia,USA
+845,Peace,Barack Obama,2009,48.0,Male,USA,
+840,Physics,George E. Smith,2009,76.0,Male,USA,USA
+839,Physics,Willard S. Boyle,2009,76.0,Male,Canada,USA
+838,Physics,Charles K. Kao,2009,76.0,Male,China,United Kingdom
+853,Chemistry,Akira Suzuki,2010,79.0,Male,Japan,Japan
+852,Chemistry,Ei-ichi Negishi,2010,79.0,Male,China,USA
+851,Chemistry,Richard F. Heck,2010,79.0,Male,USA,USA
+858,Economics,Christopher A. Pissarides,2010,70.0,Male,Cyprus,United Kingdom
+857,Economics,Dale T. Mortensen,2010,70.0,Male,USA,USA
+856,Economics,Peter A. Diamond,2010,70.0,Male,USA,USA
+854,Literature,Mario Vargas Llosa,2010,74.0,Male,Peru,
+848,Medicine,Robert G. Edwards,2010,85.0,Male,United Kingdom,United Kingdom
+855,Peace,Xiaobo Liu,2010,55.0,Male,China,
+850,Physics,Konstantin Novoselov,2010,52.0,Male,Russia,United Kingdom
+849,Physics,Andre Geim,2010,52.0,Male,Russia,United Kingdom
+867,Chemistry,Dan Shechtman,2011,70.0,Male,Israel,Israel
+873,Economics,Christopher A. Sims,2011,68.0,Male,USA,USA
+872,Economics,Thomas J. Sargent,2011,68.0,Male,USA,USA
+868,Literature,Tomas Transtromer,2011,80.0,Male,Sweden,
+863,Medicine,Ralph M. Steinman,2011,54.0,Male,Canada,USA
+862,Medicine,Jules A. Hoffmann,2011,54.0,Male,Luxembourg,France
+861,Medicine,Bruce A. Beutler,2011,54.0,Male,USA,USA
+871,Peace,Tawakkol Karman,2011,73.0,Female,Yemen,
+870,Peace,Leymah Gbowee,2011,73.0,Female,Liberia,
+869,Peace,Ellen Johnson Sirleaf,2011,73.0,Female,Liberia,
+866,Physics,Adam G. Riess,2011,,Male,USA,USA
+865,Physics,Brian P. Schmidt,2011,,Male,USA,Australia
+864,Physics,Saul Perlmutter,2011,,Male,USA,USA
+879,Chemistry,Brian Kobilka,2012,69.0,Male,USA,USA
+878,Chemistry,Robert J. Lefkowitz,2012,69.0,Male,USA,USA
+883,Economics,Lloyd S. Shapley,2012,61.0,Male,USA,USA
+882,Economics,Alvin E. Roth,2012,61.0,Male,USA,USA
+880,Literature,Mo Yan,2012,57.0,Male,China,
+875,Medicine,Shinya Yamanaka,2012,79.0,Male,Japan,Japan
+874,Medicine,Sir John B. Gurdon,2012,79.0,Male,United Kingdom,United Kingdom
+881,Peace,European Union ,2012,,Organization,,
+876,Physics,Serge Haroche,2012,68.0,Male,Morocco,France
+877,Physics,David J. Wineland,2012,68.0,Male,USA,USA
+889,Chemistry,Martin Karplus,2013,83.0,Male,Austria,France
+891,Chemistry,Arieh Warshel,2013,83.0,Male,Israel,USA
+890,Chemistry,Michael Levitt,2013,83.0,Male,South Africa,USA
+896,Economics,Robert J. Shiller,2013,74.0,Male,USA,USA
+895,Economics,Lars Peter Hansen,2013,74.0,Male,USA,USA
+894,Economics,Eugene F. Fama,2013,74.0,Male,USA,USA
+892,Literature,Alice Munro,2013,82.0,Female,Canada,
+886,Medicine,Thomas C. Sudhof,2013,63.0,Male,Germany,USA
+885,Medicine,Randy W. Schekman,2013,63.0,Male,USA,USA
+884,Medicine,James E. Rothman,2013,63.0,Male,USA,USA
+893,Peace,Organisation for the Prohibition of Chemical Weapons ,2013,,Organization,,
+887,Physics,Franois Englert,2013,81.0,Male,Belgium,Belgium
+888,Physics,Peter Higgs,2013,81.0,Male,United Kingdom,United Kingdom
+910,Chemistry,Stefan W. Hell,2014,54.0,Male,Romania,Germany
+911,Chemistry,William E. Moerner,2014,54.0,Male,USA,USA
+909,Chemistry,Eric Betzig,2014,54.0,Male,USA,USA
+915,Economics,Jean Tirole,2014,61.0,Male,France,France
+912,Literature,Patrick Modiano,2014,69.0,Male,France,
+904,Medicine,May-Britt Moser,2014,75.0,Female,Norway,Norway
+905,Medicine,Edvard I. Moser,2014,75.0,Male,Norway,Norway
+903,Medicine,John O'Keefe,2014,75.0,Male,USA,United Kingdom
+914,Peace,Malala Yousafzai,2014,60.0,Female,Pakistan,
+913,Peace,Kailash Satyarthi,2014,60.0,Male,India,
+908,Physics,Shuji Nakamura,2014,85.0,Male,Japan,USA
+907,Physics,Hiroshi Amano,2014,85.0,Male,Japan,Japan
+906,Physics,Isamu Akasaki,2014,85.0,Male,Japan,Japan
+923,Chemistry,Aziz Sancar,2015,77.0,Male,Turkey,USA
+922,Chemistry,Paul Modrich,2015,77.0,Male,USA,USA
+921,Chemistry,Tomas Lindahl,2015,77.0,Male,Sweden,United Kingdom
+926,Economics,Angus Deaton,2015,70.0,Male,Scotland,USA
+924,Literature,Svetlana Alexievich,2015,67.0,Female,Ukraine,
+917,Medicine,Satoshi Omura,2015,85.0,Male,Japan,Japan
+918,Medicine,Youyou Tu,2015,85.0,Female,China,China
+916,Medicine,William C. Campbell,2015,85.0,Male,Ireland,USA
+925,Peace,National Dialogue Quartet ,2015,,Organization,,
+920,Physics,Arthur B. McDonald,2015,56.0,Male,Canada,Canada
+919,Physics,Takaaki Kajita,2015,56.0,Male,Japan,Japan
+933,Chemistry,Bernard L. Feringa,2016,72.0,Male,the Netherlands,the Netherlands
+932,Chemistry,Sir J. Fraser Stoddart,2016,72.0,Male,United Kingdom,USA
+931,Chemistry,Jean-Pierre Sauvage,2016,72.0,Male,France,France
+936,Economics,Bengt Holmstrom,2016,68.0,Male,Finland,USA
+935,Economics,Oliver Hart,2016,68.0,Male,United Kingdom,USA
+937,Literature,Bob Dylan,2016,75.0,Male,USA,
+927,Medicine,Yoshinori Ohsumi,2016,71.0,Male,Japan,Japan
+934,Peace,Juan Manuel Santos,2016,65.0,Male,Colombia,
+930,Physics,J. Michael Kosterlitz,2016,82.0,Male,United Kingdom,USA
+929,Physics,F. Duncan M. Haldane,2016,82.0,Male,United Kingdom,USA
+928,Physics,David J. Thouless,2016,82.0,Male,United Kingdom,USA
